@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PingFlow - Privacy Policy</title>
-    <link>http://example.org/</link>
+    <link>https://pingflow.github.io/privacy-policy/</link>
     <description>Recent content on PingFlow - Privacy Policy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pingflow.github.io/privacy-policy/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Privacy Policy</title>
-      <link>http://example.org/</link>
+      <link>https://pingflow.github.io/privacy-policy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/</guid>
+      <guid>https://pingflow.github.io/privacy-policy/</guid>
       <description>Régles de Confidentialité Applications Mobile Google Play &amp;amp; AppStore
 1.Les applications mobiles Homido disponibles sur les plateformes Google Play et AppStore. En téléchargeant l’une de ses applications vous acceptez les conditions relatives à cette application mobile notamment les pushs notifications et la collecte d’adresse emails via Facebook Connect.
 Les informations collectés au sein de notre application ne seront utilisées que dans le cadre de la promotion d’ Homido et ne seront pas revendues à des tiers.</description>

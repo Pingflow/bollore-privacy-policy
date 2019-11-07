@@ -3,58 +3,58 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://pingflow.github.io/privacy-policy/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://example.org/fr/categories/"
+                href="https://pingflow.github.io/privacy-policy/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/categories/"
+                href="https://pingflow.github.io/privacy-policy/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://pingflow.github.io/privacy-policy/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://example.org/fr/"
+                href="https://pingflow.github.io/privacy-policy/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/"
+                href="https://pingflow.github.io/privacy-policy/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://pingflow.github.io/privacy-policy/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://example.org/fr/"
+                href="https://pingflow.github.io/privacy-policy/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/"
+                href="https://pingflow.github.io/privacy-policy/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://pingflow.github.io/privacy-policy/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://example.org/fr/tags/"
+                href="https://pingflow.github.io/privacy-policy/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/tags/"
+                href="https://pingflow.github.io/privacy-policy/tags/"
                 />
   </url>
   
