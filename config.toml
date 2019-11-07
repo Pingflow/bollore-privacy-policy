@@ -1,0 +1,13 @@
+baseURL = "http://example.org/"
+languageCode = "fr-fr"
+title = "PingFlow - Privacy Policy"
+publishDir = "docs"
+theme = "beautifulhugo"
+[languages]
+  [languages.en]
+    contentDir = "content/en"
+  [languages.fr]
+    contentDir = "content/fr"
+[author]
+    name = "PingFlow"
+    homepage = "https://www.pingflow.com"
